@@ -1,0 +1,30 @@
+body{
+    background-color: pink;
+}
+header{
+    background-color: palevioletred;
+    font-style: italic;
+    font-weight: 700;
+}
+pre{
+    background-color:rgb(220, 116, 180);
+}
+.question{
+    color: rgb(195, 88, 124);
+    font-style:initial ;
+}
+.happy{
+    color: black;
+}
+
+h1{
+    font-weight: 400;
+    font-family: cursive;
+}
+h2{
+   font-family: serif;
+   color: rgb(154, 98, 206);
+}
+.request{
+    color: rgb(5, 7, 6);
+}
